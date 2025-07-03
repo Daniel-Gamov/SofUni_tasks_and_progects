@@ -70,11 +70,11 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 ## 🏙️ 5. City Price Calculator
 **Filename:** `city_product_price.py`
 
-Asks for product name, city, and quantity.
+*Asks for product name, city, and quantity.
 
-Calculates the total price based on the city-specific product prices.
+*Calculates the total price based on the city-specific product prices.
 
-Each city (Sofia, Plovdiv, Varna) has different pricing.
+*Each city (Sofia, Plovdiv, Varna) has different pricing.
 
 **Concepts used:** conditional statements, nested if, basic arithmetic
 
@@ -85,13 +85,13 @@ Each city (Sofia, Plovdiv, Varna) has different pricing.
 ## 🕓 6. Shop Open Hours Checker
 **Filename:** `shop_open_checker.py`
 
-Takes input for hour and day of the week.
+*Takes input for hour and day of the week.
 
-Checks if the shop is open (between 10:00–18:00 and on weekdays).
+*Checks if the shop is open (between 10:00–18:00 and on weekdays).
 
-Outputs "open" or "closed" depending on the time.
+*Outputs "open" or "closed" depending on the time.
 
-Concepts used: list membership, range(), conditional logic
+**Concepts used: `list membership, range()`, conditional logic
 
 
 
@@ -101,13 +101,13 @@ Concepts used: list membership, range(), conditional logic
 ## 🍍 7. Fruit Price by Day
 **Filename:** `fruit_price_by_day.py`
 
-Asks for fruit name, day of the week, and quantity.
+*Asks for fruit name, day of the week, and quantity.
 
-Calculates the price based on whether it’s a weekday or weekend.
+*Calculates the price based on whether it’s a weekday or weekend.
 
-Prints "error" if the fruit or day is not valid.
+*Prints "error" if the fruit or day is not valid.
 
-Concepts used: lists, nested conditions, input validation
+**Concepts used: lists, nested conditions, input validation
 
 
 ---
