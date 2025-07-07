@@ -17,6 +17,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 **Concepts used:** input, float, arithmetic, formatted strings
 
+* (The Code)[https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/discount_calcolator.py]
 
 ---
 
