@@ -17,7 +17,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 **Concepts used:** input, float, arithmetic, formatted strings
 
-* (The Code)[https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/discount_calcolator.py]
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/discount_calcolator.py)
 
 ---
 
@@ -32,6 +32,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 **Concepts used:** input, float, percentages, multi-step calculations
 
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/school_supplies.py)
 
 ---
 
@@ -49,7 +50,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 **Concepts used:** if-else, modulus, percentage logic, math operations
 
-
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/bonus_points.py)
 
 ---
 
@@ -64,7 +65,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 **Concepts used:** division, conditional logic, `math.ceil()`
 
-
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/tv_episode_break.py)
 
 ---
 
@@ -79,7 +80,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 **Concepts used:** conditional statements, nested if, basic arithmetic
 
-
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/city_prise_calculator.py)
 
 ---
 
@@ -94,8 +95,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 **Concepts used: `list membership, range()`, conditional logic
 
-
-
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/shop_open_checker.py)
 
 ---
 
@@ -110,6 +110,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 **Concepts used: lists, nested conditions, input validation
 
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/fruit_price_by_day.py)
 
 ---
 
