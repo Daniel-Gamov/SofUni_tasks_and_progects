@@ -146,7 +146,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 ---
 
-##🧠 10. Exam Results Tracker
+## 🧠 10. Exam Results Tracker
 **Filename:** `exam_tracker.py`
 
 * Tracks problems and grades until the user enters "Enough" or reaches a certain number of poor grades (≤ 4).
