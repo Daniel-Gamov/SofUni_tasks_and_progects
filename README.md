@@ -125,7 +125,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 * Concepts used: input, int, list comprehension, max(), min()
 
-- link to code
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/max_min_finder.py)
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 * Concepts used: input, while loop, conditional statements, break
 
-- link to code
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/find_book.py)
 
 ---
 
@@ -157,7 +157,7 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 * Concepts used: input, float, while loop, counters, averaging, conditional logic
 
-- link to code
+- [link to code](https://github.com/Daniel-Gamov/SofUni_tasks_and_progects/blob/main/SofUni_Codes/exam_tracker.py)
 
 ---
 
