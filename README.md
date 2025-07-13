@@ -114,4 +114,51 @@ Welcome to my collection of beginner-friendly Python exercises from my time at S
 
 ---
 
+## 🔢 8. Find Max and Min Numbers
+**Filename:** `max_min_finder.py`
+
+* Asks the user how many numbers they will enter.
+
+* Reads the numbers one by one.
+
+* Finds and prints the maximum and minimum value among them.
+
+* Concepts used: input, int, list comprehension, max(), min()
+
+- link to code
+
+---
+
+## 📚 9. Find Your Favorite Book
+**Filename:** `find_book.py`
+
+* Asks the user for the title of their favorite book.
+
+* Continuously reads book titles until it matches the favorite one or "No More Books" is entered.
+
+* If the book is found, it prints how many books were checked before finding it.
+
+* If not found, it prints that the book wasn’t found and how many were checked.
+
+* Concepts used: input, while loop, conditional statements, break
+
+- link to code
+
+---
+
+##🧠 10. Exam Results Tracker
+**Filename:** `exam_tracker.py`
+
+* Tracks problems and grades until the user enters "Enough" or reaches a certain number of poor grades (≤ 4).
+
+* Calculates the average score and prints the last problem before stopping.
+
+* If too many poor grades are given, it tells the user they need a break.
+
+* Concepts used: input, float, while loop, counters, averaging, conditional logic
+
+- link to code
+
+---
+
 Thanks for checking out my early Python projects! 🚀 Feel free to explore the code, leave feedback, or suggest improvements. 😄
